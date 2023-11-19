@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **OSGI, MySQL, Kotlin**
 
-- 🤝 I’m looking for help with **asdasd**
+- 🤝 I’m looking for help for **my underwater drone project**
 
 - 📫 How to reach me **huseyinshtoglu@gmail.com**
 
