@@ -1,8 +1,18 @@
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h1 align="center">Hi 👋, I'm Huseyin</h1>
- 
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Huseyin+Sahutoglu!;&center=true&size=30">
+  </a>
+</h1>
+
+<br>
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=huseyinsaht.visitor-badge&right_text=My%20Page%20Visitor"> 
+</br>
+
 - 🔭 I’m currently working on [OpenEMS](https://openems.io/)  
 
 - 🌱 I’m currently learning **OSGI, MySQL, Kotlin**
