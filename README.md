@@ -43,3 +43,17 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=huseyinsaht&show_icons=true&locale=en&layout=compact" />
   </a-->
 </div>
+
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="right" href="https://github.com/openems/openems" title="OpenEMS"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=openems&repo=OpenEMS&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/huseyinsaht/Master-Thesis" title="Chat & Fresh"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=huseyinsaht&repo=Master-Thesis&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<br><br><br><br><br><br>
+
+<h4 align="center">
+  <a href="https://github.com/huseyinsaht?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
