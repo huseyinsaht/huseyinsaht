@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [OpenEMS](https://openems.io/)  
 
-- 🌱 I’m currently learning **OSGI, MySQL, Kotlin**
+- 🌱 I’m currently learning **ROS2, OSGI, MySQL, Kotlin**
 
 - 🤝 I’m looking for help for my **Underwater Drone Project**
 
