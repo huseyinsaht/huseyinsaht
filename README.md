@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **huseyinshtoglu@gmail.com**
 
-- ⚡ Fun fact **just talk about robotics**
+- ⚡ Fun fact **just talk about future**
 
  <a href='https://ko-fi.com/huseyinsht' target='_blank'><img height='20' style='border:0px;height:37px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /> </a>
 
