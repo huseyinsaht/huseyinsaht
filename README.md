@@ -51,7 +51,7 @@
 
 <p align="center">
   <img src="https://githubreadmestatsfast.vercel.app/api?username=huseyinsaht&theme=highcontrast&hide_border=true&border_radius=20&include_all_commits=false&count_private=true&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinsaht&theme=highcontrast&hide_border=true&border_radius=20" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=huseyinsaht&theme=highcontrast&hide_border=true&border_radius=20" alt="GitHub Streak" />
 </p>
 
 ## 🏆 Badges
