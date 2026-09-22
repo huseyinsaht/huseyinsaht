@@ -33,7 +33,7 @@
 - ⚡ Fun fact **just talk about future**
 
 <p align="center">
-  <i>"Code the future — one line at a time." 💻✨</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dynamic quote" />
 </p>
 
 ## 💻 Tech Stack
