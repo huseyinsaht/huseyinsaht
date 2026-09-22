@@ -53,22 +53,25 @@
 
 <br><br>
 
+## 🚀 Projects
+
+<p align="center">
+  <a href="https://github.com/openems/openems"><img src="https://github-readme-stats.vercel.app/api/pin/?username=openems&repo=OpenEMS&theme=highcontrast&hide_border=true&border_radius=20" alt="OpenEMS" /></a>
+  <a href="https://github.com/huseyinsaht/BeachIQ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=huseyinsaht&repo=BeachIQ&theme=highcontrast&hide_border=true&border_radius=20" alt="BeachIQ" /></a>
+</p>
+
 ## 📈 GitHub Stats
-<div align="center">
-  <a href="https://github.com/huseyinsaht/huseyinsaht">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=huseyinsaht&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
-  </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinsaht&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huseyinsaht&theme=highcontrast&hide_border=true&border_radius=20&include_all_commits=false&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huseyinsaht&theme=highcontrast&hide_border=true&border_radius=20" alt="GitHub Streak" />
+</p>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/openems/openems" title="OpenEMS"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=openems&repo=OpenEMS&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/huseyinsaht/BeachIQ" title="BeachIQ"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=huseyinsaht&repo=BeachIQ&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
+## 🏆 Badges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=huseyinsaht&theme=darkhub&no-frame=true&margin-w=8&row=1" alt="Trophies" />
+</p>
 
 <h4 align="center">
   <a href="https://github.com/huseyinsaht?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
