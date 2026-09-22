@@ -32,6 +32,10 @@
   
 - ⚡ Fun fact **just talk about future**
 
+<p align="center">
+  <img src="https://geekageddon-api.vercel.app/api/quotes?theme=tokyonight&category=grit&borderAnimation=dash" />
+</p>
+
 ## 💻 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -54,10 +58,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=huseyinsaht&theme=highcontrast&hide_border=true&border_radius=20" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://geekageddon-api.vercel.app/api/quotes?theme=tokyonight&category=grit&borderAnimation=dash" />
 </p>
 
 ## 🐍 Contribution
