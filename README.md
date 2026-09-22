@@ -22,10 +22,6 @@
   <img src="https://img.shields.io/github/last-commit/huseyinsaht/huseyinsaht?color=green&style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://geekageddon-api.vercel.app/api/quotes?theme=tokyonight&category=grit&borderAnimation=dash" />
-</p>
-
 - 🔭 I’m currently working on [OpenEMS](https://openems.io/) and building **BeachIQ**, a Flutter app for swim/wave conditions
 
 - 🌱 I’m currently learning **Flutter, OSGi, ROS2, and YOLO-based computer vision**
@@ -58,6 +54,10 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=huseyinsaht&theme=highcontrast&hide_border=true&border_radius=20" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://geekageddon-api.vercel.app/api/quotes?theme=tokyonight&category=grit&borderAnimation=dash" />
 </p>
 
 ## 🐍 Contribution
