@@ -33,7 +33,7 @@
 - ⚡ Fun fact **just talk about future**
 
 <p align="center">
-  <img src="https://geekageddon-api.vercel.app/api/quotes?theme=tokyonight&category=grit&borderAnimation=dash" />
+  <i>"Code the future — one line at a time." 💻✨</i>
 </p>
 
 ## 💻 Tech Stack
