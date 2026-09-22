@@ -33,9 +33,7 @@
 - 🤝 I’m looking for help for my **Underwater ROV Project** (Pixhawk + BlueOS + Jetson Orin Nano, YOLO fish detection)
 
 - 🎮 Also tinkering with a **TentacleWars-style game in Godot**
-
-- 📫 How to reach me **huseyinshtoglu@gmail.com**
-
+  
 - ⚡ Fun fact **just talk about future**
 
 ## 💻 Tech Stack
