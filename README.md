@@ -50,14 +50,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://githubreadmestatsfast.vercel.app/api?username=huseyinsaht&theme=highcontrast&hide_border=true&border_radius=20&include_all_commits=false&count_private=true&show_icons=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=huseyinsaht&theme=highcontrast&hide_border=true&border_radius=20" alt="GitHub Streak" />
-</p>
-
-## 🏆 Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=huseyinsaht&theme=darkhub&no-frame=true&margin-w=8&row=1" alt="Trophies" />
 </p>
 
 ## 🐍 Contribution
