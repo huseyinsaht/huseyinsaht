@@ -38,12 +38,6 @@
 
 - ⚡ Fun fact **just talk about future**
 
-## 🔗 Find Me on
-<div>
- <a href="https://linkedin.com/in/huseyin-sahutoglu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huseyin-sahutoglu" height="30" width="40" />
-  </a>
-</div>
-
 ## 💻 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
@@ -65,14 +59,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://githubreadmestatsfast.vercel.app/api?username=huseyinsaht&theme=highcontrast&hide_border=true&border_radius=20&include_all_commits=false&count_private=true&show_icons=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=huseyinsaht&theme=highcontrast&hide_border=true&border_radius=20" alt="GitHub Streak" />
-</p>
-
-## 🏆 Badges
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=huseyinsaht&theme=darkhub&no-frame=true&margin-w=8&row=1" alt="Trophies" />
 </p>
 
 ## 🐍 Contribution
