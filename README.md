@@ -12,6 +12,16 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=huseyinsaht.visitor-badge&right_text=My%20Page%20Visitor"> 
 </br>
 
+<p align="center">
+  <a href="https://github.com/huseyinsaht?tab=followers"><img src="https://img.shields.io/github/followers/huseyinsaht?style=flat-square&color=purple" /></a>
+  <a href="https://github.com/huseyinsaht"><img src="https://img.shields.io/github/stars/huseyinsaht?affiliations=OWNER&style=flat-square&color=blue" /></a>
+  <img src="https://img.shields.io/github/last-commit/huseyinsaht/huseyinsaht?color=green&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://geekageddon-api.vercel.app/api/quotes?theme=tokyonight&category=grit&borderAnimation=dash" />
+</p>
+
 - 🔭 I’m currently working on [OpenEMS](https://openems.io/) and building **BeachIQ**, a Flutter app for swim/wave conditions
 
 - 🌱 I’m currently learning **Flutter, OSGi, ROS2, and YOLO-based computer vision**
